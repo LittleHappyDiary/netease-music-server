@@ -314,4 +314,5 @@ async function serveNcmApi(options) {
 module.exports = {
   serveNcmApi,
   getModulesDefinitions,
+  consturctServer,   // 新增加这一行
 }
